@@ -1,2 +1,2 @@
-## Sonic Forces Rewritten V1.0
+## Sonic Forces Rewritten V1.5
 First Release
